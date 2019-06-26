@@ -62,7 +62,7 @@ Mr. Gardener wants to keep Mrs. Gardener from yelling at him for overwatering an
 * Learn about the tech (Raspberry PI)
 * Get Rapberry PI working
 #### MVP 2
-Get sensors talking to Raspberry PI
+* Get sensors talking to Raspberry PI
 
 #### MVP Xs
 
