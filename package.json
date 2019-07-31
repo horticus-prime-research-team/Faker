@@ -1,0 +1,25 @@
+{
+  "name": "dummypython",
+  "version": "1.0.0",
+  "description": "The back-up file to mock soil sensor data in the event the Raspberry Pi - HAT - Grove Sensor setup is unable to send data to our web-server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horticus-prime/dummyPython.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horticus-prime/dummyPython/issues"
+  },
+  "homepage": "https://github.com/horticus-prime/dummyPython#readme",
+  "dependencies": {
+    "cron": "^1.7.1",
+    "node-cron": "^2.0.3",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
